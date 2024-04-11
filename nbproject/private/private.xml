@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/ECU_layer/KeyPad/ecu_keypad.h</file>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/application.h</file>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/ECU_layer/ecu_layer_inti.h</file>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/ECU_layer/Char_LCD/ecu_char_lcd.c</file>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/application.c</file>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/ECU_layer/KeyPad/ecu_keypad.c</file>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/MCAL_layer/GPIO/hal_gpio.c</file>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/ECU_layer/ecu_layer_inti.c</file>
+            <file>file:/E:/Embedded/02_Part%202%20Microcontroller%20Interfacing/My_Drivers/ECU_layer/Char_LCD/ecu_char_lcd.h</file>
+        </group>
+    </open-files>
+</project-private>
